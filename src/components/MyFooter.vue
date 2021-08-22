@@ -54,6 +54,8 @@ export default {
   line-height: 40px;
   padding-left: 6px;
   margin-top: 5px;
+  background-color: skyblue;
+  opacity: 0.9;
 }
 
 .todo-footer label {

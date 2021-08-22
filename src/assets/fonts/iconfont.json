@@ -1,0 +1,23 @@
+{
+  "id": "2694225",
+  "name": "hcw",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "993258",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "4770751",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    }
+  ]
+}
